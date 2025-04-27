@@ -1,0 +1,52 @@
+00:51:47.636 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:51:47.646 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:51:47.670 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:51:47.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:51:47.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:51:47.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:51:47.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:51:47.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:51:47.718 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:51:47.719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:51:47.719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:51:47.738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:51:47.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:51:47.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:51:47.758 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:51:47.759 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:51:47.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:51:47.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+00:51:47.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+00:51:47.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+00:51:47.810 [main] INFO  testCases.TC_LoginDDT - Started login data
+00:54:37.408 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml"
+00:54:37.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml
+
+00:54:40.852 [main] INFO  testCases.TC_Registration - Started  Registration
+00:54:41.014 [main] INFO  testCases.TC_Registration - clicked account 
+00:54:41.318 [main] INFO  testCases.TC_Registration - clicked Register
+00:54:41.320 [main] INFO  testCases.TC_Registration - providing registration details
+00:54:41.939 [main] INFO  testCases.TC_Registration - validating
+00:54:42.553 [main] INFO  testCases.TC_Registration - Finished Registration
+00:54:50.476 [main] INFO  testCases.TC_Login - Login Started
+00:54:51.711 [main] INFO  testCases.TC_Login - Login Finished
+00:56:33.856 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml"
+00:56:34.160 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml
+
+00:56:37.351 [main] INFO  testCases.TC_Registration - Started  Registration
+00:56:37.447 [main] INFO  testCases.TC_Registration - clicked account 
+00:56:37.763 [main] INFO  testCases.TC_Registration - clicked Register
+00:56:37.765 [main] INFO  testCases.TC_Registration - providing registration details
+00:56:38.572 [main] INFO  testCases.TC_Registration - validating
+00:56:39.285 [main] ERROR testCases.TC_Registration - Test Failed
+00:56:39.286 [main] DEBUG testCases.TC_Registration - Debug Logs
+00:56:47.484 [main] INFO  testCases.TC_Login - Login Started
+00:56:49.150 [main] INFO  testCases.TC_Login - Login Finished
+01:00:55.191 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml"
+01:00:55.488 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml
+
+01:00:58.494 [main] INFO  testCases.TC_Registration - Started  Registration
+01:00:58.664 [main] INFO  testCases.TC_Registration - clicked account 

@@ -1,0 +1,50 @@
+01:00:59.112 [main] INFO  testCases.TC_Registration - clicked Register
+01:00:59.126 [main] INFO  testCases.TC_Registration - providing registration details
+01:01:00.263 [main] INFO  testCases.TC_Registration - validating
+01:01:00.292 [main] ERROR testCases.TC_Registration - Test Failed
+01:01:00.292 [main] DEBUG testCases.TC_Registration - Debug Logs
+01:01:08.249 [main] INFO  testCases.TC_Login - Login Started
+01:01:09.533 [main] INFO  testCases.TC_Login - Login Finished
+01:04:21.017 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\crossBrowsing.xml"
+01:07:27.803 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\crossBrowsing.xml"
+01:07:28.125 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\crossBrowsing.xml
+
+01:07:31.320 [main] INFO  testCases.TC_Registration - Started  Registration
+01:07:31.428 [main] INFO  testCases.TC_Registration - clicked account 
+01:07:31.925 [main] INFO  testCases.TC_Registration - clicked Register
+01:07:31.928 [main] INFO  testCases.TC_Registration - providing registration details
+01:07:32.523 [main] INFO  testCases.TC_Registration - validating
+01:07:33.147 [main] ERROR testCases.TC_Registration - Test Failed
+01:07:33.147 [main] DEBUG testCases.TC_Registration - Debug Logs
+01:07:40.940 [main] INFO  testCases.TC_Login - Login Started
+01:07:42.145 [main] INFO  testCases.TC_Login - Login Finished
+01:07:54.399 [main] INFO  testCases.TC_Registration - Started  Registration
+01:07:54.920 [main] INFO  testCases.TC_Registration - clicked account 
+01:07:55.440 [main] INFO  testCases.TC_Registration - clicked Register
+01:07:55.441 [main] INFO  testCases.TC_Registration - providing registration details
+01:07:56.880 [main] INFO  testCases.TC_Registration - validating
+01:07:56.928 [main] ERROR testCases.TC_Registration - Test Failed
+01:07:56.928 [main] DEBUG testCases.TC_Registration - Debug Logs
+01:08:06.259 [main] INFO  testCases.TC_Login - Login Started
+01:08:07.419 [main] INFO  testCases.TC_Login - Login Finished
+01:08:24.201 [main] INFO  testCases.TC_Login - Login Started
+01:08:25.707 [main] INFO  testCases.TC_Login - Login Finished
+01:53:50.179 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml"
+01:53:55.353 [main] INFO  testCases.TC_Registration - Started  Registration
+01:53:55.504 [main] INFO  testCases.TC_Registration - clicked account 
+01:53:55.871 [main] INFO  testCases.TC_Registration - clicked Register
+01:53:55.873 [main] INFO  testCases.TC_Registration - providing registration details
+01:53:57.524 [main] INFO  testCases.TC_Registration - validating
+01:53:57.581 [main] INFO  testCases.TC_Registration - Finished Registration
+01:54:07.225 [main] INFO  testCases.TC_Login - Login Started
+01:54:08.726 [main] INFO  testCases.TC_Login - Login Finished
+02:19:59.697 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml"
+02:20:04.621 [main] INFO  testCases.TC_Registration - Started  Registration
+02:20:05.131 [main] INFO  testCases.TC_Registration - clicked account 
+02:20:05.488 [main] INFO  testCases.TC_Registration - clicked Register
+02:20:05.491 [main] INFO  testCases.TC_Registration - providing registration details
+02:20:06.916 [main] INFO  testCases.TC_Registration - validating
+02:20:06.990 [main] INFO  testCases.TC_Registration - Finished Registration
+02:20:16.152 [main] INFO  testCases.TC_Login - Login Started
+02:20:17.920 [main] INFO  testCases.TC_Login - Login Finished

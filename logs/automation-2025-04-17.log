@@ -1,0 +1,57 @@
+19:33:34.825 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - Started Account Registration
+19:33:35.169 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - Started Account Registration
+19:33:35.809 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - clicked account 
+19:33:36.122 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - clicked account 
+19:33:36.589 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - clicked Register
+19:33:36.596 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - providing registration details
+19:33:36.756 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - clicked Register
+19:33:36.757 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - providing registration details
+19:33:38.117 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - validating
+19:33:39.176 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - validating
+19:33:39.199 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - Finished Registration
+19:33:39.269 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - Finished Registration
+19:33:39.794 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - Started Account Registration
+19:33:40.042 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - clicked account 
+19:33:40.331 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - clicked Register
+19:33:40.333 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - providing registration details
+19:33:41.516 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - validating
+19:33:41.560 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - Finished Registration
+19:54:11.012 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml"
+19:54:11.303 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml
+
+19:54:30.726 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml"
+19:54:31.012 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml
+
+19:56:37.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml"
+19:56:38.055 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml
+
+19:58:22.836 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml"
+19:58:23.141 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml
+
+20:00:03.700 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml"
+20:00:04.016 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\parallelBrowsing.xml
+
+20:00:08.453 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - Started Account Registration
+20:00:09.205 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - clicked account 
+20:00:09.964 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - clicked Register
+20:00:09.974 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - providing registration details
+20:00:10.057 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - Started Account Registration
+20:00:10.304 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - clicked account 
+20:00:10.839 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - clicked Register
+20:00:10.841 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - providing registration details
+20:00:12.369 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - validating
+20:00:12.418 [TestNG-tests-1] INFO  testCases.TestAccountRegistration - Finished Registration
+20:00:13.097 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - Started Account Registration
+20:00:13.235 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - validating
+20:00:13.318 [TestNG-tests-2] INFO  testCases.TestAccountRegistration - Finished Registration
+20:00:13.390 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - clicked account 
+20:00:13.680 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - clicked Register
+20:00:13.680 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - providing registration details
+20:00:14.986 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - validating
+20:00:15.007 [TestNG-tests-3] INFO  testCases.TestAccountRegistration - Finished Registration
+02:19:33.988 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\brahm\OneDrive\Desktop\Selenium WebDiver\OpenCart\masterBrowsing.xml"
